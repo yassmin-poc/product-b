@@ -4,3 +4,8 @@ updates:
     directory: /
     schedule:
       interval: daily
+    cooldown:
+      exclude:
+        - "@yassmin-poc/commitlint-config"
+        - "@yassmin-poc/standards"
+        - "@yassmin-poc/nx-plugin"
