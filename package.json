@@ -12,7 +12,7 @@
     "@nx/workspace": "24.0.6",
     "@yassmin-poc/commitlint-config": "0.1.0",
     "@yassmin-poc/standards": "0.1.0",
-    "nx": "24.0.6"
+    "nx": "24.0.7"
   },
   "packageManager": "npm@11.12.1"
 }
