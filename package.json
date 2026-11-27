@@ -9,7 +9,7 @@
   },
   "devDependencies": {
     "@commitlint/cli": "21.2.4",
-    "@nx/workspace": "24.0.6",
+    "@nx/workspace": "24.1.0",
     "@yassmin-poc/commitlint-config": "0.1.0",
     "@yassmin-poc/standards": "0.1.0",
     "nx": "24.0.6"
